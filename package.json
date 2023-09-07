@@ -3,6 +3,8 @@
 	"author": "Sebastian Arbutina",
 	"description": "A project that does nothing but teach me how to use package.json",
 	"keywords": ["freecodecamp", "learn", "npm", "package.json"],
+	"license": "LGPL-2.1-or-later",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
